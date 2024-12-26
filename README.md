@@ -1,6 +1,3 @@
-
-markdown
-Copy code
 # Grocery 2 Go
 
 ## Table of Contents
